@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">EasyExchange</string>
+
+    <string-array name="frommm">
+        <item>USD</item>
+        <item>AED</item>
+        <item>ARS</item>
+        <item>AUD</item>
+        <item>BGN</item>
+        <item>BRL</item>
+        <item>BSD</item>
+        <item>CAD</item>
+        <item>CHF</item>
+    </string-array>
+
+
+    <string-array name="tooo">
+        <item>USD</item>
+        <item>AED</item>
+        <item>ARS</item>
+        <item>AUD</item>
+        <item>BGN</item>
+        <item>BRL</item>
+        <item>BSD</item>
+        <item>CAD</item>
+        <item>CHF</item>
+    </string-array>
+
+</resources>

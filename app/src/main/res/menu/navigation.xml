@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_dash"
+        android:icon="@drawable/dashboard"
+        android:title="Home" />
+
+    <item
+        android:id="@+id/navigation_convert"
+        android:icon="@drawable/convert"
+        android:title="Convert" />
+
+    <item
+        android:id="@+id/navigation_favorite"
+        android:icon="@drawable/favorite"
+        android:title="Calculator" />
+
+    <item
+        android:id="@+id/navigation_about"
+        android:icon="@drawable/info"
+        android:title="About" />
+
+</menu>
