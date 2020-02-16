@@ -58,7 +58,7 @@ Upon Error the following is the response
 }
 ```
 
-# Screenshot
+### Screenshot
 
 
 
@@ -75,7 +75,7 @@ Upon Error the following is the response
 <img width="282" alt="ss6" src="https://user-images.githubusercontent.com/17185722/74599344-30864b00-504e-11ea-805d-3d2321a658b9.PNG">
 
 
-License
+### License
 ----
 
 sonym3@gmail.com
