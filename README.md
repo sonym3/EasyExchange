@@ -76,7 +76,6 @@ Upon Error the following is the response
 
 
 ### License
-----
 
 sonym3@gmail.com
 
